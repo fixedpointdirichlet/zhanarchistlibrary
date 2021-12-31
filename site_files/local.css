@@ -1,1 +1,21 @@
-/* Empty by default, for local changes */
+/* by rfa for t@l */
+@media(prefers-color-scheme:dark){
+body { 
+  background: black;
+    -webkit-filter: invert(1) hue-rotate(180deg); 
+    filter: invert(1) hue-rotate(180deg); 
+  }
+  img.img {
+    -webkit-filter: invert(1) hue-rotate(180deg); 
+    filter: invert(1) hue-rotate(180deg); 
+  }
+}
+body.darkmode { 
+  background: black;
+  -webkit-filter: invert(1) hue-rotate(180deg); 
+  filter: invert(1) hue-rotate(180deg); 
+}
+body.darkmode img.img, body.darkmode img.embedimg, body.darkmode img.text-cover-img-mini {
+  -webkit-filter: invert(1) hue-rotate(180deg); 
+  filter: invert(1) hue-rotate(180deg); 
+}
