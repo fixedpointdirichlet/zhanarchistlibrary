@@ -1,10 +1,22 @@
-#title 引导页
+#title 中文无治主义图书馆｜中文無治主義圖書館
 #lang zh
 #pubdate 2021-12-31T01:15:54
 
+<center>
 
+欢迎来到中文无治主义图书馆！
 
-欢迎来到
+<br>
+
+发现了适合图书馆的文本？
+
+[[/action/text/new][任何人都可以在这里上传]]
+
+<br>
+
+或者检阅[[/stats/popular][热门文本]]
+
+</center>
 
 
 
